@@ -2,6 +2,7 @@
 - 👀 I’m interested in all things language technology.
 - 🌱 I’m currently learning all about NLP. 
 - 📫 How to reach me: cpuopolo001@ikasle.ehu.eus
+- 🌈️️️️️️ Pronouns: she/her
 
 <!---
 puopolo/puopolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
