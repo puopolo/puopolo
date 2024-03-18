@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @puopolo
-- 👀 I’m interested in how to to make language technology work better for its users.
+- 👀 I’m interested in all things language technology.
 - 🌱 I’m currently learning all about NLP. 
 - 📫 How to reach me: cpuopolo001@ikasle.ehu.eus
 
