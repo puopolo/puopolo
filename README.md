@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puopolo
 - 👀 I’m interested in all things language technology.
-- 🌱 I’m currently learning all about NLP. 
+- 🌱 I’m currently learning about NLP applications. 
 - 📫 How to reach me: cpuopolo001@ikasle.ehu.eus
 - 🌈️️️️️️ Pronouns: she/her
 
